@@ -8,7 +8,7 @@ and over again. This library is my attempt at factorizing those patterns into on
 
 You need to add the dependency
 ```
-    "de.halcony"                 %% "scala-telegram-client"                % "(version)"
+    "de.halcony"                 %% "scala-telegram"                % "(version)"
 ```
 
 as well as the resolver
